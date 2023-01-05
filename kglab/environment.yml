@@ -327,4 +327,4 @@ dependencies:
     - urlpath==1.2.0
     - uuid==1.30
     - wrapt==1.14.1
-prefix: /afs/crc.nd.edu/user/c/ccunnin8/mambaforge/envs/kglab
+
