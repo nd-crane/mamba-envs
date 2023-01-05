@@ -375,4 +375,3 @@ dependencies:
   - zipp=3.11.0=pyhd8ed1ab_0
   - zlib=1.2.13=h166bdaf_4
   - zstd=1.5.2=h6239696_4
-prefix: /afs/crc.nd.edu/user/c/ccunnin8/mambaforge/envs/pytorch

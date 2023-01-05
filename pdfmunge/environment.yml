@@ -296,4 +296,3 @@ dependencies:
   - zstd=1.5.2=ha4553b6_0
   - pip:
     - ghostscript==0.7
-prefix: /afs/crc.nd.edu/user/c/ccunnin8/mambaforge/envs/pdfmunge

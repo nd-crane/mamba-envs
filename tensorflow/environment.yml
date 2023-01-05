@@ -152,4 +152,3 @@ dependencies:
   - zeromq=4.3.4=h9c3ff4c_1
   - zipp=3.11.0=pyhd8ed1ab_0
   - zlib=1.2.13=h166bdaf_4
-prefix: /afs/crc.nd.edu/user/c/ccunnin8/mambaforge/envs/tf-gpu
